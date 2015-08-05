@@ -9688,6 +9688,22 @@ h2.section-header {
     .card-link:hover {
       opacity: 0.1; }
 
+/* line 2, /Users/boris/code/lewagon/middleman-challenges/source/stylesheets/components/_feature.scss */
+.feature h2 {
+  font-size: 17px;
+  line-height: 25px;
+  font-weight: bold;
+  color: #666666; }
+/* line 8, /Users/boris/code/lewagon/middleman-challenges/source/stylesheets/components/_feature.scss */
+.feature p {
+  font-size: 15px;
+  color: #B3B3B3;
+  font-weight: 300; }
+/* line 13, /Users/boris/code/lewagon/middleman-challenges/source/stylesheets/components/_feature.scss */
+.feature img {
+  height: 23px;
+  margin-right: 5px; }
+
 /*
 ==============================================
 CSS3 ANIMATION CHEAT SHEET
