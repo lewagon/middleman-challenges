@@ -12,8 +12,6 @@ $(function() {
       }
     }
   });
-
   // Scroll reveal
   window.sr = new scrollReveal();
-
 });
